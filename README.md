@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/altaytqn?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/altay702?tab=repositories)
 
 
 <h3 align="left">Tech Stack</h3>
